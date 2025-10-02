@@ -67,7 +67,7 @@ if (! extension_loaded('pdo')) {
  */
 class DB {
   // initial connection
-  public static $dbName = 'crafthiring';
+  public static $dbName = 'phpledger';
   public static $user = 'root';
   public static $password = '';
   public static $host = 'localhost';
